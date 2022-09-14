@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenniferwnino
-- 🌱 I’m currently studing Computer Science at the UF
+- 🌱 I’m currently studying Computer Science at the UF
 
 
 <!---
